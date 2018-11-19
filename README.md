@@ -1,6 +1,6 @@
 # MicroserviceExample
 <p>
-    <strong>Test project of a microservice architecture with Eureka</strong>
+    <strong>Test project of a microservice architecture with Eureka and Heroku</strong>
 </p>
 <p>
         <a href="https://travis-ci.com/ItsNobu/microservices-example"><img src="https://travis-ci.com/ItsNobu/microservices-example.svg?branch=master" alt="Travis"></a>
