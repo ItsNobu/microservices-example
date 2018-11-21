@@ -1,0 +1,3 @@
+com/microservices/springboot/controller/HelloWorldControllerTest.class
+com/microservices/springboot/controller/GoodbyeControllerTest.class
+com/microservices/springboot/util/BasicControllerTest.class
